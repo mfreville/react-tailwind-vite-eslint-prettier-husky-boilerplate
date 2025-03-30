@@ -13,7 +13,6 @@
             {
                 "runtime": "automatic"
             }
-        ], // It's the name of the lib you installed
-        "@babel/preset-typescript" // It's the name of the lib you installed
+        ] // It's the name of the lib you installed
     ]
 }
